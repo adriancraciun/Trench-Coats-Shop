@@ -1,0 +1,11 @@
+XS,blue,100,https://www.reserved.com/ro/ro/3243g-55x/bluzka-k-bjt
+S,black,80,https://www.reserved.com/ro/ro/3243g-99x/bluzka-k-bjt
+M,black,120,https://www.reserved.com/ro/ro/3243g-00x/bluzka-k-bjt
+L,green,150,https://www.reserved.com/ro/ro/5806b-01x/bluzka-k-re
+XL,red,140,https://www.reserved.com/ro/ro/0104c-99x/koszulka-k-re
+S,pink,180,https://www.reserved.com/ro/ro/7591b-01x/bluzka-k-re
+XXS,orange,90,https://www.reserved.com/ro/ro/7591b-03x/bluzka-k-re
+L,cyan,200,https://www.reserved.com/ro/ro/7909b-mlc/koszulka-k-re
+XL,lime,190,https://www.reserved.com/ro/ro/7909b-03x/koszulka-k-re
+XXL,green,160,https://www.reserved.com/ro/ro/yt863-99x/koszulka-k-re
+S,pink,100,www.asd
